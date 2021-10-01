@@ -1,5 +1,5 @@
 import React from 'react';
-import ButtonPanel from './ButtonPanel';
+import ButtonPanel from './buttonPanel';
 import Display from './display';
 
 function App() {
