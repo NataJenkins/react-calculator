@@ -1,6 +1,6 @@
-import React from "react";
-import ButtonPanel from "./ButtonPanel";
-import Display from "./display";
+import React from 'react';
+import ButtonPanel from './ButtonPanel';
+import Display from './display';
 
 function App() {
   return (
