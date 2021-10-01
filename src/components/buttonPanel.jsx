@@ -10,7 +10,7 @@ function ButtonPanel() {
         <Button name="÷" />
       </div>
       <div className="group-2">
-        <Button name="2" />
+        <Button name="7" />
         <Button name="8" />
         <Button name="9" />
         <Button name="x" />
